@@ -1,0 +1,141 @@
+.action-btn {
+  color: #fff;
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.action-btn svg {
+  margin-right: 5px;
+}
+
+.btn-white {
+  background-color: #fff;
+  color: #43424288;
+  border: 1px solid #d1d5db;
+}
+
+.btn-white:hover {
+  background-color: #f3f4f6;
+  color: #43424288;
+}
+
+.btn-primary {
+  border: 1px solid #1d4ed8;
+  color: #1d4ed8;
+}
+
+.btn-primary svg {
+  color: #1d4ed8;
+}
+
+.btn-primary:hover {
+  background-color: #2044ba;
+  color: #ffff;
+  cursor: pointer;
+}
+
+.btn-red {
+  border: 1px solid #e02424;
+  color: #e02424;
+}
+
+.btn-red svg {
+  color: #e02424;
+}
+
+.btn-red:hover {
+  background-color: #cb1d1d;
+  color: #ffff;
+  cursor: pointer;
+}
+
+.btn-primary:hover svg,
+.btn-red:hover svg {
+  color: #ffff;
+}
+
+.counting {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+
+.counting span {
+  font-weight: 600;
+}
+
+.search-input {
+  background-color: #f9fafb;
+  border-radius: 0.5rem;
+  border: 1px solid #d1d5db;
+}
+
+.pages {
+  border: 1px solid #43424288;
+  border-radius: 0.5em;
+}
+/* Prevent text wrapping in table cells */
+table td {
+  white-space: nowrap;
+}
+
+/* Table container styles */
+.table-container {
+  position: relative;
+  max-height: calc(100vh - 250px);
+  overflow-y: auto;
+  overflow-x: hidden;
+  border-radius: 0.5rem;
+  scrollbar-width: thin;
+  scrollbar-color: #c3c3c3 #f1f1f1;
+}
+
+/* Table styles */
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin-bottom: 0;
+  table-layout: fixed;
+}
+
+/* Sticky header styles */
+thead {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: #f3f4f6;
+  width: 100%;
+}
+
+thead::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 1px;
+  background-color: #e5e7eb;
+}
+
+/* Table cell styles */
+th, td {
+  padding: 1rem;
+  background: #fff;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+th {
+  font-weight: 600;
+  text-align: left;
+}
+
+/* Hover effects */
+tbody tr:hover td {
+  background-color: #f9fafb;
+}

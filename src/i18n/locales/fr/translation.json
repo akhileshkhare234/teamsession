@@ -1,0 +1,106 @@
+{
+  "common": {
+
+"tableHeaders": {
+      "employee": "Employé",
+      "city": "Ville",
+      "employeeList": "Liste des employés",
+      "employeeDetails": "Détails de l'employé",
+      "employeeSessions": "Sessions de l'employé",
+      "sessions": "Sessions",
+      "completed": "Terminé",
+      "pending": "En attente",
+      "approved": "Approuvé",
+      "settings": "Paramètres",
+      "save": "Enregistrer",
+      "cancel": "Annuler",
+      "Email": "Email",
+      "Customer Name": "Nom du client",
+      "Login Time": "Heure de connexion",
+      "Logout Time": "Heure de déconnexion",
+      "Login Date": "Date de connexion",
+      "Logout Date": "Date de déconnexion",
+      "Status": "Statut",
+      "Total": "Total",
+      "Today's": "Aujourd'hui",
+      "Location": "Emplacement",
+      "Address": "Adresse",
+      "User Name": "Nom d'utilisateur",
+      "Contact Number" : "Numéro de contact",
+      "Designation": "Désignation",
+      "Department": "Département",
+      "State": "État",
+      "Reporting To": "Rapport à",
+      "City": "Ville",
+      "Action": "Action",
+      "delete": "Supprimer",
+      "edit": "Modifier",
+      "search": "Rechercher"
+    },
+
+    "login": "Connexion",
+    "logout": "Déconnexion",
+    "signup": "S'inscrire",
+    "profile": "Profil",
+    "dashboard": "Tableau de bord",
+    "employees": "Employés",
+  
+    "sessions":"Sessions",
+    "Employee":"Employé",
+    "employeeList":"Liste des employés",
+    "employeeDetails":"Détails de l'employé",
+    "employeeSessions":"Sessions de l'employé",
+
+    "approved":"Approuvé",
+    "settings": "Paramètres",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "search": "Rechercher",
+    "loading": "Chargement..."
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Mot de passe",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "phoneNumber": "Numéro de téléphone",
+    "forgotPassword": "Mot de passe oublié ?",
+    "rememberMe": "Se souvenir de moi",
+    "loginError": "Email ou mot de passe invalide",
+    "registerSuccess": "Inscription réussie"
+  },
+  "validation": {
+    "required": "Ce champ est obligatoire",
+    "invalidEmail": "Adresse email invalide",
+    "invalidPhone": "Numéro de téléphone invalide",
+    "passwordLength": "Le mot de passe doit contenir au moins 8 caractères"
+  },
+  "errors": {
+    "generic": "Une erreur est survenue",
+    "unauthorized": "Accès non autorisé",
+    "notFound": "Ressource non trouvée",
+    "networkError": "Erreur de réseau"
+  },
+  "button":{
+    "add": "Ajouter",
+    "update": "Mettre à jour",
+    "delete": "Supprimer",
+    "view": "Voir",
+    "export": "Exporter",
+    "import": "Importer",
+    "download": "Télécharger",
+    "upload": "Téléverser",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "showing": "Affichage",
+    "entries": "Entrées",
+    "details": "Détails",
+    "Home": "Accueil",
+    "Analysis": "Analyse",
+    "In Progress": "En cours"
+  }
+
+}

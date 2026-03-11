@@ -1,0 +1,40 @@
+{
+  "common": {
+    "login": "登录",
+    "logout": "退出",
+    "signup": "注册",
+    "profile": "个人资料",
+    "dashboard": "仪表板",
+    "employees": "员工",
+    "settings": "设置",
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除",
+    "edit": "编辑",
+    "search": "搜索",
+    "loading": "加载中..."
+  },
+  "auth": {
+    "email": "电子邮箱",
+    "password": "密码",
+    "firstName": "名字",
+    "lastName": "姓氏",
+    "phoneNumber": "电话号码",
+    "forgotPassword": "忘记密码？",
+    "rememberMe": "记住我",
+    "loginError": "邮箱或密码无效",
+    "registerSuccess": "注册成功"
+  },
+  "validation": {
+    "required": "此字段为必填项",
+    "invalidEmail": "无效的电子邮箱地址",
+    "invalidPhone": "无效的电话号码",
+    "passwordLength": "密码长度必须至少为8个字符"
+  },
+  "errors": {
+    "generic": "发生错误",
+    "unauthorized": "未授权访问",
+    "notFound": "资源未找到",
+    "networkError": "网络错误"
+  }
+}

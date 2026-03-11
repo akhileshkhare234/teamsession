@@ -1,0 +1,4 @@
+export class Constant {
+  static authToken =
+    "Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJqaG9uLmRvZUBnbWFpbC5jb20iLCJleHAiOjE3MTYyODM2MTYsImZpcnN0bmFtZSI6Ikpob24iLCJsYXN0bmFtZSI6Ikpob24iLCJyb2xlIjowLCJlbWFpbCI6Impob24uZG9lQGdtYWlsLmNvbSIsIm1vYmlsZSI6Ijk4NzY1NDMyMTAifQ.qztpOOOWMYdLIaG_No2OKYGZm9JIdwJUFfhT5bSCAeE";
+}

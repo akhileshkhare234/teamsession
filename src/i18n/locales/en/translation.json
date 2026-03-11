@@ -1,0 +1,109 @@
+{
+  "common": {
+
+    
+    "tableHeaders": {
+      "employee": "Employee",
+      "city": "City",
+      "employeeList": "Employee List",
+      "employeeDetails": "Employee Details",
+      "employeeSessions": "Employee Sessions",
+      "sessions": "Sessions",
+      "approved": "Approved",
+      "settings": "Settings",
+      "Login Time": "Login Time",
+      "Logout Time": "Logout Time",
+      "Login Date": "Login Date",
+      "Logout Date": "Logout Date",
+      "Status": "Status",
+      "Email": "Email",
+      "Customer Name": "Customer Name",
+      "Action": "Action",
+      
+      "completed": "Completed",
+      "pending": "Pending",
+      "save": "Save",
+      "cancel": "Cancel",
+      "delete": "Delete",
+      "edit": "Edit",
+      "Total": "Total",
+      "Today's": "Today's",
+      "Location": "Location",
+      "Address": "Address",
+      "User Name": "User Name",
+      "Contact Number": "Contact Number",
+      "Designation": "Designation",
+      "Department": "Department",
+      "State": "State",
+      "Reporting To": "Reporting To",
+      "City": "City",
+      "search": "Search"
+    },
+    "login": "Login",
+    "logout": "Logout",
+    "signup": "Sign Up",
+    "profile": "Profile",
+    "dashboard": "Dashboard",
+    "employees": "Employees",
+  
+   
+    "Employee" : "Employee",
+    "employeeList": "Employee List",
+    "employeeDetails": "Employee Details",
+    "employeeSessions": "Employee Sessions",
+    "sessions": "Sessions",
+    "approved": "Approved",
+    "settings": "Settings",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "loading": "Loading..."
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "phoneNumber": "Phone Number",
+    "forgotPassword": "Forgot Password?",
+    "rememberMe": "Remember Me",
+    "loginError": "Invalid email or password",
+    "registerSuccess": "Registration successful"
+  },
+  "validation": {
+    "required": "This field is required",
+    "invalidEmail": "Invalid email address",
+    "invalidPhone": "Invalid phone number",
+    "passwordLength": "Password must be at least 8 characters"
+  },
+  "errors": {
+    "generic": "Something went wrong",
+    "unauthorized": "Unauthorized access",
+    "notFound": "Resource not found",
+    "networkError": "Network error occurred"
+  },
+  "button": {
+    "add": "Add",
+    "update": "Update",
+    "view": "View",
+    "approve": "Approve",
+    "reject": "Reject",
+    "download": "Download",
+    "Analysis": "Analysis",
+    "upload": "Upload",
+    "export": "Export",
+    "import": "Import",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "close": "Close",
+    "next": "Next",
+    "previous": "Previous",
+    "back": "Back",
+    "showing": "Showing",
+    "Home": "Home",
+    "entries": "Entries"
+  }
+
+}

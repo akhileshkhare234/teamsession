@@ -1,0 +1,40 @@
+{
+  "common": {
+    "login": "Iniciar sesión",
+    "logout": "Cerrar sesión",
+    "signup": "Registrarse",
+    "profile": "Perfil",
+    "dashboard": "Panel de control",
+    "employees": "Empleados",
+    "settings": "Configuración",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "search": "Buscar",
+    "loading": "Cargando..."
+  },
+  "auth": {
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "phoneNumber": "Número de teléfono",
+    "forgotPassword": "¿Olvidaste tu contraseña?",
+    "rememberMe": "Recuérdame",
+    "loginError": "Correo electrónico o contraseña inválidos",
+    "registerSuccess": "Registro exitoso"
+  },
+  "validation": {
+    "required": "Este campo es requerido",
+    "invalidEmail": "Dirección de correo electrónico inválida",
+    "invalidPhone": "Número de teléfono inválido",
+    "passwordLength": "La contraseña debe tener al menos 8 caracteres"
+  },
+  "errors": {
+    "generic": "Algo salió mal",
+    "unauthorized": "Acceso no autorizado",
+    "notFound": "Recurso no encontrado",
+    "networkError": "Error de red"
+  }
+}

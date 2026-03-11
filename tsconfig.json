@@ -1,0 +1,36 @@
+
+{
+  "compilerOptions": {
+    "noUnusedLocals": true, // Ignore unused local variables
+    "noUnusedParameters": true, // Ignore unused function parameters
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react",
+    "noImplicitAny": true,
+    "baseUrl": "./src",
+    "paths": {
+      "assets/*": ["./assets/*"],
+      "components/*": ["./components/*"],
+      "layouts/*": ["./layouts/*"],
+      "utils/*": ["./utils/*"],
+      "routes/*": ["./routes/*"],
+      "hooks/*": ["./hooks/*"],
+      "pages/*": ["./pages/*"],
+      "context/*": ["./context/*"],
+      "themes/*": ["./themes/*"]
+    },
+  },
+  "include": ["src", "src/components/.contacts"]
+}
